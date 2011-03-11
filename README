@@ -1,5 +1,13 @@
-XCITE is a little utility that adds some entries to your .bashrc file so that system info, kernel info, user info, date, time and other nifty bits of info can be seen at a touch of the Enter key. XCITE is presently supported only on Linux.
+XCITE is a little utility that adds some entries to your .bashrc file so that system info, kernel info, user info, date, time and other nifty bits of info can be seen at a touch of the Enter key. XCITE is presently supported only on Linux. 
 
-XCITE 1.0 README
-by Root
+This file is part of XCITE. 
+
+XCITE is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
+
+XCITE is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
+
+You should have received a copy of the GNU General Public License along with XCITE. If not, see <http://www.gnu.org/licenses/>. 
+
+XCITE 1.0 README by Root 
 visit us at http://rootspeaking.com
+
